@@ -5,7 +5,7 @@
     {% endif %}
     {% if site.data.contact.whatsapp_group %}
     <div class="call-email"><strong>Join WhatsApp: </strong>
-      <a href="{{ .site.data.contact.whatsapp_group }}">
+      <a href="{{ site.data.contact.whatsapp_group | absolute_url }}">
         {{ site.data.contact.whatsapp_group }}
       </a>
     </div>
