@@ -1,6 +1,6 @@
 main:
   - name: "Contributions"
-    url: "/donations/"
+    url: "/contributions/"
     weight: 2
   - name: "Sponsors"
     url: "/team/"
@@ -9,7 +9,7 @@ main:
     url: "/contact/"
     weight: 5
   - name: "Donate"
-    url: "/donate/"
+    url: "/about/"
     weight: 4    
 
 footer:
@@ -19,6 +19,9 @@ footer:
   - name: "Donate"
     url: "/donate/"
     weight: 2
+  - name: "Sponsors"
+    url: "/team/"
+    weight: 3    
   - name: "Contact"
     url: "/contact/"
-    weight: 3
+    weight: 4
