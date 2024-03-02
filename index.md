@@ -10,4 +10,4 @@ show_call_box: true
 
 # Together Towards Success.
 
-I'm sending my heartfelt gratitude to you for standing with me on this incredible journey. Your small donation is highly appreciated and covers costs of University fees and essential expenses.
+I'm sending my heartfelt gratitude to you for standing with me on this incredible journey. Your small contribution is highly appreciated and covers costs of University fees and essential expenses.
