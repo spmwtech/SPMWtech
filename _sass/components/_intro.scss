@@ -23,7 +23,7 @@
     }
   }
   h2 {
-    width: 80%;
+    width: 90%;
     font-size: 1.2rem;
     line-height: 1.4;
     margin-bottom: 30px;
@@ -31,12 +31,12 @@
     font-family: $font-family-base;
   }
   p {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-weight: light;
     line-height: 1.5;
     color: $steel;
     @include media-breakpoint-up(md) {
-      width: 80%;
+      width: 90%;
     }
   }
 }
