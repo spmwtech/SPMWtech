@@ -1,14 +1,14 @@
 main:
-  - name: "Contributions"
-    url: "/contributions/"
+  - name: "Home"
+    url: "/"
     weight: 2
-  - name: "Sponsors"
+  - name: "Donors Contribution"
     url: "/team/"
     weight: 3
-  - name: "Contact"
+  - name: "Contacts"
     url: "/contact/"
     weight: 5
-  - name: "Donate"
+  - name: "Donate Now!"
     url: "/about/"
     weight: 4    
 
