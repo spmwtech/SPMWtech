@@ -12,7 +12,7 @@ logo:
 
 home: 
   limit_services: 6
-
+ 
 collections:
   services:
     output: true
@@ -38,6 +38,11 @@ sass:
 plugins:
   - jekyll-environment-variables
   - jekyll-get-json
+
+  
+jekyll_get_json:
+  - data: donations
+    json: 'https://opensheet.elk.sh/1dn4noLJ6gHsIAMOjx3kgz3i9EaTIf9RcI9JRzri8Q5g/1'
 
 exclude:
   - Gemfile
