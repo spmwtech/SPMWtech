@@ -8,7 +8,7 @@ Business advisory is the final tier of the accounting pyramid. Business advisory
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+# Why Higher Education Matters
 
 Financial accounting and financial reporting are often used as synonyms.
 
