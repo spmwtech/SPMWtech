@@ -12,4 +12,4 @@ To say the least, thank you so much for the sacrifices youve constantly made for
 
 I pray to God to always remember you for what you have been to me and that you may never lack. 
 
-![{{ page.image }}]( {{ page.image }} )
+![{{ page.title }}]( {{ page.image | relative_url }} )
