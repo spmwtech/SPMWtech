@@ -1,7 +1,7 @@
 ---
 title: "School Calendar"
 date: 2024-02-18T12:33:46+10:00
-weight: 1
+weight: 4
 ---
 
 Financial accounting is the field of accounting with the **summary, analysis and reporting** of financial transactions related to a business.
