@@ -14,7 +14,7 @@ bodyClass: "page-team"
           </div>
         {% endif %}
         <div class="content">{{content}}</div>
-        {% assign a = page.title %}
+        {% assign a = team.title %}
         {% assign person-donations = site.data.donations | where: "First name","a" %}
           <table>
             {% for row in person-donations %}
