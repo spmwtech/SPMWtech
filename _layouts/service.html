@@ -14,7 +14,7 @@ bodyClass: "page-service"
      <ul>
       {% for service in site.services %}
         <li>
-          <a href="{{ service.url }}">{{ service.name }}<a/>
+          <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
         </li>
       {% endfor %}
      </ul>
