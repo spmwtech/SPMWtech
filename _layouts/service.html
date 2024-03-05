@@ -11,5 +11,12 @@ bodyClass: "page-service"
         <div class="content">{{content}}</div>
       </div>
     </div>
+     <ul>
+      {% for service in site.services %}
+        <li>
+          <a href="{{ service.url }}">{{ service.name }}<a/>
+        </li>
+      {% endfor %}
+     </ul>
   </div>
 </div>
