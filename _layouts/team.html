@@ -10,7 +10,7 @@ bodyClass: "page-team"
         <h1 class="title">{{page.title}}</h1>
         {% if page.image %}
           <div class="team-image">
-            <img width="60" height="60" alt="{{ team.title }}" class="img-fluid mb-2" src="{{ page.image | relative_url }}" />
+            <img width="60" height="60" alt="{{ page.title }}" class="img-fluid mb-2" src="{{ page.image | relative_url }}" />
           </div>
         {% endif %}
         <div class="content">{{content}}</div>
