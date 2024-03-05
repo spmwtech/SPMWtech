@@ -8,8 +8,6 @@ weight: 7
 ---
 
 Hey King,  
-To say the least, thank you so much for the sacrifices youve constantly made for me. And for believing in me. You are a hero, my inspiration, always giving strength to push through the days. Keep up.  
+To say the least, thank you so so much for the sacrifices youve constantly made for me. And for believing in me. You are my inspiration, always giving strength to push through the days. Keep up hero.  
 
-I pray to God to always remember you for what you have been to me and that you may never lack. 
-
-![{{ page.title }}]( {{ page.image | relative_url }} )
+Ill always pray to God to remember you in all your endeavors. May never lack. 
