@@ -14,8 +14,8 @@ bodyClass: "page-team"
           </div>
         {% endif %}
         <div class="content">{{content}}</div>
-
-        {% assign person-donations = site.data.donations | where: "First name","{{ page.title }}" %}
+        {% assign a = page.title %}
+        {% assign person-donations = site.data.donations | where: "First name","a" %}
           <table>
             {% for row in person-donations %}
               {% if forloop.first %}
