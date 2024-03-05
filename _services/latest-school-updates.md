@@ -1,6 +1,6 @@
 ---
-title: "Insurance"
-date: 2019-05-18T12:33:46+10:00
+title: "Latest School Updates"
+date: 2023-03-01T12:33:46+10:00
 weight: 7
 ---
 
