@@ -1,5 +1,5 @@
 ---
-title: "School Events Calendar"
+title: "My Eductional Journey"
 date: 2024-02-28T15:14:39+10:00
 weight: 4
 ---
