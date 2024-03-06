@@ -1,7 +1,7 @@
 ---
 title: "Latest School Updates"
-date: 2023-03-01T12:33:46+10:00
-weight: 7
+date: 2024-03-01T12:33:46+10:00
+weight: 3
 ---
 
 Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
