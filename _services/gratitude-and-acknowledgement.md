@@ -1,7 +1,7 @@
 ---
 title: "Gratitude and Acknowledgment"
 date: 2024-02-28T15:14:54+10:00
-weight: 5
+weight: 7
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
