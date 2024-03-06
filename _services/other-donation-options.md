@@ -1,7 +1,7 @@
 ---
 title: "Other Donation Options"
 date: 2024-02-28T15:15:34+10:00
-weight: 3
+weight: 8
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
