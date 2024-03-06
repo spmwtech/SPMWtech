@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Supporting Transformation of Lives Through Education
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Join the journey and together we can make it possible. Your contribution counts towards opening more doors to success. Make a Difference today
